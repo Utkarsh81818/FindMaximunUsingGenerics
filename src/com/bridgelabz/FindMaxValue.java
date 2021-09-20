@@ -1,6 +1,6 @@
 package com.bridgelabz;
 /**
- * Purpose - To find maximum float value using generics
+ * Purpose - To find maximum string value using generics
  * @author - Utkarsh Mishra
  * @since - 2021-09-20
  */
